@@ -1,0 +1,2 @@
+# NGPROXY
+NGPROXY是用go语言实现的服务发现组件，中间协议使用thrift增强通用性，并使用zookeeper作为目录存储树
